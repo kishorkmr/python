@@ -32,4 +32,7 @@ for number in range(min, max, interval):     # 0 to n-1
     print(format(number,'.2f'))           # format to 2 place after decomal
 
 
-
+x = 1
+while x != 5:
+    print(x)
+    x = x + 1
