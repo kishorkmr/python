@@ -1,0 +1,1 @@
+1. Select two random but not identical items from a list

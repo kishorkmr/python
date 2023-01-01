@@ -1,0 +1,17 @@
+########################### Common inputs ###########################
+p_StartDate     = 01-DEC-22
+p_EndDate       = 07-DEC-22
+p_CountAvgDay   = 600000                       
+p_CountMaxDay   = 1200000                  
+p_StartTime     = 08:00:00.000000         
+p_EndTime       = 08:00:06.000000           
+
+
+########################### Table Specific inputs ###################
+p_File_TableNames = .\input\File_TableNames.csv
+p_HeaderFile_Table_Test1 = .\input\HeaderFile_Table_Test1.csv
+p_HeaderFile_Table_Test2 = .\input\HeaderFile_Table_Test2.csv
+
+########################### Table Specific outputs ##################
+p_DataFile_Table_Test1 = .\output\DataFile_Table_Test1.csv
+p_DataFile_Table_Test2 = .\output\DataFile_Table_Test2.csv
